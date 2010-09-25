@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!-- Theme properties -->
+<string name="theme_title">fLockscreen One</string>
+<!-- http://developer.android.com/intl/de/guide/topics/resources/string-resource.html#FormattingAndStyling -->
+<string name="theme_description">This is a Theme Description, go to the &lt;a href="http://flockscreen.piratemedia.tv">Flockscreen Site&lt;/a> for more info</string>
+<!-- Theme specific appearance settings -->
+<!-- Top Box colors -->
+<color name="network_text_color">#FF000000</color>
+<color name="network_text_shadow_color">#FFFFFFFF</color>
+<!-- center Box colors -->
+<color name="clock_text_color">#FFFFFFFF</color>
+<color name="clock_text_shadow_color">#00FFFFFF</color>
+<!-- Music Controls colors -->
+<color name="music_text_color">#FF000000</color>
+<color name="music_text_shadow_color">#00000000</color>
+<!-- Text Notification Colors -->
+<color name="notification_text_color">#FFFFFFFF</color>
+<color name="notification_text_shadow_color">#FFFFFFFF</color>
+<!-- theme layout config  -->
+<bool name="background_slide">true</bool>
+<bool name="allow_art_slide">false</bool>
+<bool name="show_icons">true</bool>
+<!-- Small_text_notif: allow simple single icon and number text notifications -->
+<!-- show_icons must be true for small_text_notif to work -->
+<bool name="simple_text_notif">true</bool>
+<!-- Music Control Bottom Padding -->
+<dimen name="music_control_pad">25dp</dimen>
+<!-- Text Notifications Top Padding -->
+<dimen name="text_notif_pad">60dp</dimen>
+</resources>
