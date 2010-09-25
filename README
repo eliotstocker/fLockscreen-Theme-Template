@@ -32,6 +32,6 @@ music_control_pad will change the padding at the bottom of the Music control bar
 
 text_notif_pad sets the padding above the sms, gmail and missed call notifications. this allows you to change the network box background to whatever you like and not have problems with stuff over lapping.
 
-The final thing to say, is that you may add a font into the assets directory buy calling it themfont.ttf
+The final thing to say, is that you may add a font into the assets directory buy calling it themefont.ttf
 
 We will add more to this template as things progress. so please keep an eye on this.
